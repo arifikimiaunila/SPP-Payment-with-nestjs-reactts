@@ -4,7 +4,6 @@ Proyek ini sekarang mencakup:
 
 - Backend NestJS: API akuntansi sekolah dengan autentikasi JWT + role-based access.
 - Frontend React: dashboard transaksi, ringkasan jenjang, filter periode, export laporan.
-- Proyek Go lama tetap ada di folder `spp/` sebagai referensi.
 
 ## Fitur Utama
 
